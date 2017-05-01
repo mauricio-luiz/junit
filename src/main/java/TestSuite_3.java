@@ -7,10 +7,6 @@ import org.junit.runners.Parameterized;
 import java.io.IOException;
 import java.util.Collection;
 
-/**
- * Created by mauricio on 30/04/2017.
- */
-
 @RunWith(Parameterized.class)
 public class TestSuite_3 {
 
